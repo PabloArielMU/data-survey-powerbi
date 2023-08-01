@@ -37,9 +37,12 @@ From [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&feature=yout
 ## Result of Analysis
 
 -Average salary is $53.90K
+
 -Favourite Programming language is Python
+
 -Highest Average salary is $94 in a Data Scientist role
-Salary satisfaction varies; work-life balance acceptable.
+
+-Salary satisfaction varies; work-life balance acceptable.
 
 ---
 
