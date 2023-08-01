@@ -45,7 +45,7 @@ Salary satisfaction varies; work-life balance acceptable.
 
 ## Author Info
 
-- Website - [Pablo A. Munoz Umberto](https://www.linkedin.com/in/pmunozumb/)
+- LinkedIn - [Pablo A. Munoz Umberto](https://www.linkedin.com/in/pmunozumb/)
 
 [Back To The Top](#data-survey-powerbi)
 
