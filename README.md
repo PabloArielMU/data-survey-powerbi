@@ -53,4 +53,3 @@ From [Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&feature=yout
 [Back To The Top](#data-survey-powerbi)
 
 ```
-[Back To The Top](#data-survey-powerbi)
